@@ -10,5 +10,6 @@ int main()
     x=y;
     y=temp;
     printf(" x=%d \n y=%d",x,y);
-
+    return 0;
+    
 }
